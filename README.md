@@ -1,0 +1,1 @@
+This project is used for merging MOV files after LD-Decode. Currently, it is intended for personal use only.
